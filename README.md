@@ -25,8 +25,8 @@
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Samarth23-sudo/C_Linux_Terminal
-    cd C_Linux_Terminal
+    git clone https://github.com/Samarth23-sudo/TinyShell
+    cd TinyShell
     ```
 
 2. Build the project:
